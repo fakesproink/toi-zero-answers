@@ -1,2 +1,2 @@
 # answers for TOI-Zero
-the period for submitting has already ended, this can only be used to better understand competitive programming now.
+academic honesty is the best policy. don't blindly copy these.
