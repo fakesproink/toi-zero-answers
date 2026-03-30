@@ -1,5 +1,4 @@
 init_input = input().upper().split()
-fenrogansdfasdf
 lights = []
 colors = ['Red', 'Green', 'Blue']
 
